@@ -341,10 +341,10 @@ current branch
     git remote add origin <REMOTE_URL>
     git remote -v
     git push origin master
-    ... make changes to files
+    ... make more changes to files
     git status
     git commit -a -m "Modified"
-    git push origin
+    git push origin master
 
 ## Multi Developer: Integration-Manager Workflow    
 
