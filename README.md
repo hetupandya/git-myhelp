@@ -62,9 +62,9 @@
           ID: `1a410e`   
           a branch name: `master`  
           a tag: `v1.0`   
-          symbolic reference: `HEAD`, `HEAD~`, `HEAD~4`
-
-  >     ![commit graph](./images/8-a2-just-objects-commits-and-refs.png) 
+          symbolic reference: `HEAD`, `HEAD~`, `HEAD~4` 
+  >
+  >  ![commit graph](./images/8-a2-just-objects-commits-and-refs.png) 
 
 
 ## Create a new Branch
