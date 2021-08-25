@@ -1,12 +1,4 @@
 
-# References
-https://codewords.recurse.com/issues/two/git-from-the-inside-out  
-https://git-scm.com/book/en/v2/  
-https://git-scm.com/book/en/v2/Git-Tools-Reset-DemystifiedGetting-Started-About-Version-Control  
-https://training.github.com/downloads/github-git-cheat-sheet.pdf
-http://rogerdudler.github.io/git-guide/  
-
-
 <br><br>  
 
 # Config  
@@ -379,4 +371,12 @@ current branch
 
     8. Sync the updated master back to your fork.
 
+<br>
+
+# References
+https://codewords.recurse.com/issues/two/git-from-the-inside-out  
+https://git-scm.com/book/en/v2/  
+https://git-scm.com/book/en/v2/Git-Tools-Reset-DemystifiedGetting-Started-About-Version-Control  
+https://training.github.com/downloads/github-git-cheat-sheet.pdf  
+http://rogerdudler.github.io/git-guide/  
 
