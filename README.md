@@ -85,10 +85,6 @@
 
     git checkout -b feature-branch    
 
-## Files in `feature-branch` modified...
-
-    ...code changes related to the feature...
-
 ## Commit changes to `feature-branch`
 
     git commit -a -m "made changes"    
