@@ -264,7 +264,7 @@ current branch
 
     git reset
 
-  > * Moodifies the state of the three trees.
+  > * Modifies the state of the three trees.
   > * The command line arguments `--soft`, `--mixed`, and `--hard` direct how to modify Commit history, Staging Index, and Working Directory trees
   > * By default `--mixed` mode is choosen, `HEAD` is the default commit
   >
@@ -319,7 +319,7 @@ current branch
 
 # Workflow
 
-## Single Developer: Local repository with a remote bare repo
+## Single Developer: Local repository with a remote repository
 
     git init
     git add .
