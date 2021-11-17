@@ -220,7 +220,7 @@ current branch
 
 <br>
 
-## Difference between two branches
+## Difference between two branches / file versions
     
     git diff [first-branch]...[second-branch]  
   >
@@ -230,6 +230,12 @@ current branch
 
     git diff –-staged
   > Show file differences between `index` & `HEAD` i.e last commit on the branch
+
+    git diff --name-only HEAD HEAD~      
+  > Show modified files between two commits 
+
+    git diff HEAD HEAD~ somedir/somefile.ext
+  > Show difference made in a file between two commits
 
 <br>
 
